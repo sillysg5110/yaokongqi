@@ -22,7 +22,7 @@ https://www.yahboom.com/study/GPbit
 密码：lftw
 
 ## 添加的扩展
-* https://github.com/lzty634158/yahboom_mbit
+* https://github.com/lzty634158/SuperBit
 * https://github.com/lzty634158/GHBit
 * https://github.com/lzty634158/yahboom_mbit
 
