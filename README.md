@@ -10,6 +10,22 @@
 * 点击齿轮图标菜单下的 **扩展**
 * 搜索 **https://github.com/sillysg5110/yaokongqi** 并导入
 
+## 小鸡蛋的积木资料添加扩展
+* buildingbit_superkit十六合一 ：
+https://www.yahboom.com/study/buildingbit-super-kit 
+密码：ctle
+* microbit 开发板：
+http://www.yahboom.com/study/micro-board
+密码：fofz 
+* microbit 游戏手柄（精巧版）： 
+https://www.yahboom.com/study/GPbit                 
+密码：lftw
+
+## 添加的扩展
+* https://github.com/lzty634158/yahboom_mbit
+* https://github.com/lzty634158/GHBit
+* https://github.com/lzty634158/yahboom_mbit
+
 ## 编辑此项目 ![构建状态标志](https://github.com/sillysg5110/yaokongqi/workflows/MakeCode/badge.svg)
 
 在 MakeCode 中编辑此仓库。
